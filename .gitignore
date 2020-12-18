@@ -9,3 +9,5 @@ app/config.yml
 config/config-*
 config/*.pickle
 **/cache.db*
+config/.DS_Store
+config/images/.DS_Store
