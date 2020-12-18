@@ -9,5 +9,9 @@ app/config.yml
 config/config-*
 config/*.pickle
 **/cache.db*
+<<<<<<< HEAD
 config/.DS_Store
 config/images/.DS_Store
+=======
+**/*.cache*
+>>>>>>> upstream/master
